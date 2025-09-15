@@ -212,7 +212,7 @@ This project is part of the Shell AI/ML Internship program. Please respect data 
 
 ## 📞 Contact
 
-**MD Haarish Hussain**
+**Md Haaris Hussain**
 - GitHub: [@mdhaarishussain](https://github.com/mdhaarishussain)
 - Project: [Veritas-Tweet-Truth-in-Disaster-Communication](https://github.com/mdhaarishussain/Veritas-Tweet-Truth-in-Disaster-Communication)
 
